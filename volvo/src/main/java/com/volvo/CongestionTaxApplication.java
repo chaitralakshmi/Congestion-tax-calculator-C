@@ -12,11 +12,11 @@ public class CongestionTaxApplication {
 
 		CostTiming ct = new CostTiming();
 
-		ct.setStartTime("07:00");
+		/*ct.setStartTime("07:00");
 	    ct.setEndTime("08:00");
         ct.setPrice(8);
 
-		System.out.println(ct.isTimeBetween("07:01"));
+		System.out.println(ct.isTimeBetween("07:01"));*/
 	}
 
 }
